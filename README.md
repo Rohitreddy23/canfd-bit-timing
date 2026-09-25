@@ -1,3 +1,5 @@
+[![CI](https://github.com/Rohitreddy23/canfd-bit-timing/actions/workflows/ci.yml/badge.svg)](https://github.com/Rohitreddy23/canfd-bit-timing/actions)
+
 # CAN-FD Bit Timing Calculator
 
 Finds valid CAN-FD **nominal (arbitration)** and **data-phase** bit timing
